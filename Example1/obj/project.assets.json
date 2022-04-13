@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\FirstLesson\\a-FirstLesson.csproj",
-      "projectName": "a-FirstLesson",
-      "projectPath": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\FirstLesson\\a-FirstLesson.csproj",
+      "projectUniqueName": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\Example1\\b-Example1.csproj",
+      "projectName": "b-Example1",
+      "projectPath": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\Example1\\b-Example1.csproj",
       "packagesPath": "C:\\Users\\ufuka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\FirstLesson\\obj\\",
+      "outputPath": "C:\\Users\\ufuka\\OneDrive\\Masaüstü\\Yazılım\\Bilge Adam Akademi\\Yazılım\\Projects\\Bilge_Adam_Akademi\\Example1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
