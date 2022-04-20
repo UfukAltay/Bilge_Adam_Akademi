@@ -1,0 +1,17 @@
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\ref\f-TurDonusumleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\bin\Debug\net5.0-windows\f-TurDonusumleri.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f_TurDonusumleri.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\ref\f-TurDonusumleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\f-TurDonusumleri\obj\Debug\net5.0-windows\f-TurDonusumleri.genruntimeconfig.cache

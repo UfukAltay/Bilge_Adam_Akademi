@@ -16,3 +16,21 @@ C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projec
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\ref\b-Example1.dll
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.pdb
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.genruntimeconfig.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\ref\b-Example1.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\bin\Debug\net5.0-windows\b-Example1.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.csproj.AssemblyReference.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b_Example1.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\ref\b-Example1.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\b-Example1\obj\Debug\net5.0-windows\b-Example1.genruntimeconfig.cache
