@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\a-FirstLesson\\a-FirstLesson.csproj": {}
+    "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\a-FirstLesson\\a-FirstLesson.csproj": {
+    "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\a-FirstLesson\\a-FirstLesson.csproj",
-        "projectName": "a-FirstLesson",
-        "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\a-FirstLesson\\a-FirstLesson.csproj",
+        "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj",
+        "projectName": "c-Example2",
+        "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj",
         "packagesPath": "C:\\Users\\ufuka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\a-FirstLesson\\obj\\",
+        "outputPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

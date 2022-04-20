@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Temel_Programlama", "1-Temel_Programlama", "{BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a-FirstLesson", "a-FirstLesson\a-FirstLesson.csproj", "{064C84CC-700D-434E-9376-FE311330B75E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a-FirstLesson", "a-FirstLesson\a-FirstLesson.csproj", "{064C84CC-700D-434E-9376-FE311330B75E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b-Example1", "b-Example1\b-Example1.csproj", "{732C4559-1065-42A5-9A25-5FA497D45348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "b-Example1", "b-Example1\b-Example1.csproj", "{732C4559-1065-42A5-9A25-5FA497D45348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-Example2", "c-Example2\c-Example2.csproj", "{10CF7251-8984-4458-878C-A79A8A1DB061}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{732C4559-1065-42A5-9A25-5FA497D45348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{732C4559-1065-42A5-9A25-5FA497D45348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{732C4559-1065-42A5-9A25-5FA497D45348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CF7251-8984-4458-878C-A79A8A1DB061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CF7251-8984-4458-878C-A79A8A1DB061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CF7251-8984-4458-878C-A79A8A1DB061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CF7251-8984-4458-878C-A79A8A1DB061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{064C84CC-700D-434E-9376-FE311330B75E} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{732C4559-1065-42A5-9A25-5FA497D45348} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{10CF7251-8984-4458-878C-A79A8A1DB061} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}

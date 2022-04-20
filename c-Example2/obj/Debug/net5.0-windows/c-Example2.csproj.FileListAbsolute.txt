@@ -1,0 +1,17 @@
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\ref\c-Example2.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\bin\Debug\net5.0-windows\c-Example2.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c_Example2.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\ref\c-Example2.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\c-Example2\obj\Debug\net5.0-windows\c-Example2.genruntimeconfig.cache

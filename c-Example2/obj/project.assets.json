@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\b-Example1\\b-Example1.csproj",
-      "projectName": "b-Example1",
-      "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\b-Example1\\b-Example1.csproj",
+      "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj",
+      "projectName": "c-Example2",
+      "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\c-Example2.csproj",
       "packagesPath": "C:\\Users\\ufuka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\b-Example1\\obj\\",
+      "outputPath": "C:\\Users\\ufuka\\Source\\Repos\\Bilge_Adam_Akademi\\c-Example2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
