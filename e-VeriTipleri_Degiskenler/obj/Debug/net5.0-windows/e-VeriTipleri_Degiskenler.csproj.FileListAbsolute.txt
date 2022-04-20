@@ -1,0 +1,17 @@
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\ref\e-VeriTipleri_Degiskenler.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\bin\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e_VeriTipleri_Degiskenler.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\ref\e-VeriTipleri_Degiskenler.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\e-VeriTipleri_Degiskenler\obj\Debug\net5.0-windows\e-VeriTipleri_Degiskenler.genruntimeconfig.cache
