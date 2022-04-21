@@ -1,0 +1,17 @@
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\ref\k-KarsilastirmaOperatorleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\bin\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k_KarsilastirmaOperatorleri.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\ref\k-KarsilastirmaOperatorleri.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\k-KarsilastirmaOperatorleri\obj\Debug\net5.0-windows\k-KarsilastirmaOperatorleri.genruntimeconfig.cache
