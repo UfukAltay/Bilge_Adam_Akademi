@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a-FirstLesson", "a-FirstLes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "b-Example1", "b-Example1\b-Example1.csproj", "{732C4559-1065-42A5-9A25-5FA497D45348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-Example2", "c-Example2\c-Example2.csproj", "{10CF7251-8984-4458-878C-A79A8A1DB061}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c-Example2", "c-Example2\c-Example2.csproj", "{10CF7251-8984-4458-878C-A79A8A1DB061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d-Example3", "d-Example3\d-Example3.csproj", "{D7B02DFE-8CFB-418E-A970-CF5C0DE815DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d-Example3", "d-Example3\d-Example3.csproj", "{D7B02DFE-8CFB-418E-A970-CF5C0DE815DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-VeriTipleri_Degiskenler", "e-VeriTipleri_Degiskenler\e-VeriTipleri_Degiskenler.csproj", "{A3C14AAA-6A81-4CDF-B485-E633B29C7A59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e-VeriTipleri_Degiskenler", "e-VeriTipleri_Degiskenler\e-VeriTipleri_Degiskenler.csproj", "{A3C14AAA-6A81-4CDF-B485-E633B29C7A59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f-TurDonusumleri", "f-TurDonusumleri\f-TurDonusumleri.csproj", "{4E7D1BD8-BEDB-4284-9F24-8854EB532714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "f-TurDonusumleri", "f-TurDonusumleri\f-TurDonusumleri.csproj", "{4E7D1BD8-BEDB-4284-9F24-8854EB532714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g-DegiskenIlkUygulama", "g-DegiskenIlkUygulama\g-DegiskenIlkUygulama.csproj", "{4A949415-E391-4D10-A90C-A8A109DB3372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "g-DegiskenIlkUygulama", "g-DegiskenIlkUygulama\g-DegiskenIlkUygulama.csproj", "{4A949415-E391-4D10-A90C-A8A109DB3372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h-Degiskenler2", "h-Degiskenler2\h-Degiskenler2.csproj", "{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "h-Degiskenler2", "h-Degiskenler2\h-Degiskenler2.csproj", "{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i-TurDonusumleri2", "i-TurDonusumleri2\i-TurDonusumleri2.csproj", "{DD62CA2A-7876-4C58-951F-790278D3E6D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD62CA2A-7876-4C58-951F-790278D3E6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD62CA2A-7876-4C58-951F-790278D3E6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD62CA2A-7876-4C58-951F-790278D3E6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD62CA2A-7876-4C58-951F-790278D3E6D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{4E7D1BD8-BEDB-4284-9F24-8854EB532714} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{4A949415-E391-4D10-A90C-A8A109DB3372} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{74AA48AA-2863-4D40-865C-5C4BAE2DFDA7} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{DD62CA2A-7876-4C58-951F-790278D3E6D1} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
