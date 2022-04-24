@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "j-Operatorler", "j-Operator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "k-KarsilastirmaOperatorleri", "k-KarsilastirmaOperatorleri\k-KarsilastirmaOperatorleri.csproj", "{FA710ADD-B929-446D-BE3F-F64BB8A423F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l-AtYarisi", "l-AtYarisi\l-AtYarisi.csproj", "{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "l-AtYarisi", "l-AtYarisi\l-AtYarisi.csproj", "{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m-ZarAtma", "m-ZarAtma\m-ZarAtma.csproj", "{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +85,10 @@ Global
 		{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +106,7 @@ Global
 		{AABF1430-C689-4A79-8466-6CDF7A8CF6E3} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{FA710ADD-B929-446D-BE3F-F64BB8A423F4} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{EC0254B8-B3D4-4C62-83DF-31AEFB1EB41F} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{FD0C7A2F-A5A0-4DC9-9974-A8C678ECDAB5} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
