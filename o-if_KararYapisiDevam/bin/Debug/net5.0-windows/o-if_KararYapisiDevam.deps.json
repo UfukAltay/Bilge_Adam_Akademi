@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "o-if_KararYapisiDevam/1.0.0": {
+        "runtime": {
+          "o-if_KararYapisiDevam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "o-if_KararYapisiDevam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
