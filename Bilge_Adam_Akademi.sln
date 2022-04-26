@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r-HataYonetimiVeHatalar", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r1-Hatalar-TryCatch2", "r1-Hatalar-TryCatch2\r1-Hatalar-TryCatch2.csproj", "{01827AAB-F49F-41AB-A526-B6FA64BB03EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "q-Listbox-ComboboxKontrolleri", "q-Listbox-ComboboxKontrolleri\q-Listbox-ComboboxKontrolleri.csproj", "{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{01827AAB-F49F-41AB-A526-B6FA64BB03EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01827AAB-F49F-41AB-A526-B6FA64BB03EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01827AAB-F49F-41AB-A526-B6FA64BB03EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{80BC8A06-2A74-40FB-8779-AAA66E7B4B10} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{54CCAFE3-D21C-41F9-9A6C-FEA2B8E10385} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{01827AAB-F49F-41AB-A526-B6FA64BB03EF} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
