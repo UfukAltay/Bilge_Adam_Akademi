@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "r-HataYonetimiVeHatalar/1.0.0": {
+        "runtime": {
+          "r-HataYonetimiVeHatalar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "r-HataYonetimiVeHatalar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
