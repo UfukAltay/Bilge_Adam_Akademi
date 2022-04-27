@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r3-RuntimeControlOlusturma2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s-Donguler-ForDongusu", "s-Donguler-ForDongusu\s-Donguler-ForDongusu.csproj", "{070581F6-423F-4D64-BFB2-C318D40E81D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1-ForDongusuOrnek", "s1-ForDongusuOrnek\s1-ForDongusuOrnek.csproj", "{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{22EFC338-1875-4970-90EC-FE86DE48F2CC} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{6513930C-5704-412C-B29A-563AA2057B55} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{070581F6-423F-4D64-BFB2-C318D40E81D2} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
