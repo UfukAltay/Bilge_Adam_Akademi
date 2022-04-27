@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "o1-if_Uygulama2", "o1-if_Uy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p-KararYapilariSwitchCase", "p-KararYapilariSwitchCase\p-KararYapilariSwitchCase.csproj", "{80BC8A06-2A74-40FB-8779-AAA66E7B4B10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r-HataYonetimiVeHatalar", "r-HataYonetimiVeHatalar\r-HataYonetimiVeHatalar.csproj", "{54CCAFE3-D21C-41F9-9A6C-FEA2B8E10385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r-HataYonetimiVeHatalar", "r-HataYonetimiVeHatalar\r-HataYonetimiVeHatalar.csproj", "{54CCAFE3-D21C-41F9-9A6C-FEA2B8E10385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r1-Hatalar-TryCatch2", "r1-Hatalar-TryCatch2\r1-Hatalar-TryCatch2.csproj", "{01827AAB-F49F-41AB-A526-B6FA64BB03EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r1-Hatalar-TryCatch2", "r1-Hatalar-TryCatch2\r1-Hatalar-TryCatch2.csproj", "{01827AAB-F49F-41AB-A526-B6FA64BB03EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "q-Listbox-ComboboxKontrolleri", "q-Listbox-ComboboxKontrolleri\q-Listbox-ComboboxKontrolleri.csproj", "{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "q-Listbox-ComboboxKontrolleri", "q-Listbox-ComboboxKontrolleri\q-Listbox-ComboboxKontrolleri.csproj", "{BDFDF919-A34B-4C48-98FF-8ED92492D7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r2-RuntimeControlOlusturma", "r2-RuntimeControlOlusturma\r2-RuntimeControlOlusturma.csproj", "{22EFC338-1875-4970-90EC-FE86DE48F2CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r2-RuntimeControlOlusturma", "r2-RuntimeControlOlusturma\r2-RuntimeControlOlusturma.csproj", "{22EFC338-1875-4970-90EC-FE86DE48F2CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r3-RuntimeControlOlusturma2", "r3-RuntimeControlOlusturma2\r3-RuntimeControlOlusturma2.csproj", "{6513930C-5704-412C-B29A-563AA2057B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r3-RuntimeControlOlusturma2", "r3-RuntimeControlOlusturma2\r3-RuntimeControlOlusturma2.csproj", "{6513930C-5704-412C-B29A-563AA2057B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s-Donguler-ForDongusu", "s-Donguler-ForDongusu\s-Donguler-ForDongusu.csproj", "{070581F6-423F-4D64-BFB2-C318D40E81D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{6513930C-5704-412C-B29A-563AA2057B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6513930C-5704-412C-B29A-563AA2057B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6513930C-5704-412C-B29A-563AA2057B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070581F6-423F-4D64-BFB2-C318D40E81D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,6 +176,7 @@ Global
 		{BDFDF919-A34B-4C48-98FF-8ED92492D7E4} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{22EFC338-1875-4970-90EC-FE86DE48F2CC} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{6513930C-5704-412C-B29A-563AA2057B55} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{070581F6-423F-4D64-BFB2-C318D40E81D2} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}

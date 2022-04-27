@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "s-Donguler-ForDongusu/1.0.0": {
+        "runtime": {
+          "s-Donguler-ForDongusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s-Donguler-ForDongusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
