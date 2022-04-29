@@ -49,15 +49,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r2-RuntimeControlOlusturma"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "r3-RuntimeControlOlusturma2", "r3-RuntimeControlOlusturma2\r3-RuntimeControlOlusturma2.csproj", "{6513930C-5704-412C-B29A-563AA2057B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s-Donguler-ForDongusu", "s-Donguler-ForDongusu\s-Donguler-ForDongusu.csproj", "{070581F6-423F-4D64-BFB2-C318D40E81D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s-Donguler-ForDongusu", "s-Donguler-ForDongusu\s-Donguler-ForDongusu.csproj", "{070581F6-423F-4D64-BFB2-C318D40E81D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1-ForDongusuOrnek", "s1-ForDongusuOrnek\s1-ForDongusuOrnek.csproj", "{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s1-ForDongusuOrnek", "s1-ForDongusuOrnek\s1-ForDongusuOrnek.csproj", "{1587EE5C-DC31-4C27-B0D5-AAAACE084BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s2-Donguler-WhileDongusu", "s2-Donguler-WhileDongusu\s2-Donguler-WhileDongusu.csproj", "{EA8A0B86-B20B-4F1A-9089-4886896BB568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s2-Donguler-WhileDongusu", "s2-Donguler-WhileDongusu\s2-Donguler-WhileDongusu.csproj", "{EA8A0B86-B20B-4F1A-9089-4886896BB568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s3-WhileDongusuOrnek", "s3-WhileDongusuOrnek\s3-WhileDongusuOrnek.csproj", "{51BDF53D-D7EE-4D65-ABD1-F8E20C964FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s3-WhileDongusuOrnek", "s3-WhileDongusuOrnek\s3-WhileDongusuOrnek.csproj", "{51BDF53D-D7EE-4D65-ABD1-F8E20C964FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s4-Donguler-DoWhileDongusu", "s4-Donguler-DoWhileDongusu\s4-Donguler-DoWhileDongusu.csproj", "{0A3FF39E-B254-4676-B66C-5F9A0316682B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s4-Donguler-DoWhileDongusu", "s4-Donguler-DoWhileDongusu\s4-Donguler-DoWhileDongusu.csproj", "{0A3FF39E-B254-4676-B66C-5F9A0316682B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-OOP", "2-OOP", "{CADEDF85-E6FE-4A8E-BBF9-C4388A2C2360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-CSharp_Programlama", "3-CSharp_Programlama", "{887FF19E-4912-4C72-808E-19DCD339435F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-SQL_Server", "4-SQL_Server", "{73D383D9-76D0-4E36-9616-0A45A5C58412}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-AdoNet", "5-AdoNet", "{2E366A9F-7A06-4943-BECD-D795645007AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
