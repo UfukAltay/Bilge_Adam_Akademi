@@ -67,6 +67,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-SQL_Server", "4-SQL_Serve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-AdoNet", "5-AdoNet", "{2E366A9F-7A06-4943-BECD-D795645007AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t-Diziler(Arrays)", "t-Diziler(Arrays)\t-Diziler(Arrays).csproj", "{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{0A3FF39E-B254-4676-B66C-5F9A0316682B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A3FF39E-B254-4676-B66C-5F9A0316682B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A3FF39E-B254-4676-B66C-5F9A0316682B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -213,6 +219,7 @@ Global
 		{EA8A0B86-B20B-4F1A-9089-4886896BB568} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{51BDF53D-D7EE-4D65-ABD1-F8E20C964FBB} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{0A3FF39E-B254-4676-B66C-5F9A0316682B} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
