@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t-Diziler(Arrays)", "t-Dizi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t1-Array-Example1", "t1-Array-Example1\t1-Array-Example1.csproj", "{FEA771EF-CB5C-4953-B1C4-F5AFFF7C2AB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t2-Array-Example2", "t2-Array-Example2\t2-Array-Example2.csproj", "{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,10 @@ Global
 		{FEA771EF-CB5C-4953-B1C4-F5AFFF7C2AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA771EF-CB5C-4953-B1C4-F5AFFF7C2AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA771EF-CB5C-4953-B1C4-F5AFFF7C2AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -227,6 +233,7 @@ Global
 		{0A3FF39E-B254-4676-B66C-5F9A0316682B} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{B9C7FBDD-57DD-43FD-A8DB-2582A6051D9A} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{FEA771EF-CB5C-4953-B1C4-F5AFFF7C2AB8} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{5AE5780A-A3E2-40D9-9CA2-7BF2C3FCE90B} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
