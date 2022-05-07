@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "u4-MethodOverloading/1.0.0": {
+        "runtime": {
+          "u4-MethodOverloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u4-MethodOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
