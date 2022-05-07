@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u1-Methods1", "u1-Methods1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u2-MethodsExample1", "u2-MethodsExample1\u2-MethodsExample1.csproj", "{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u3-MethodsExample2", "u3-MethodsExample2\u3-MethodsExample2.csproj", "{BACA655C-3527-4274-8574-AA725C6E8924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +237,10 @@ Global
 		{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACA655C-3527-4274-8574-AA725C6E8924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACA655C-3527-4274-8574-AA725C6E8924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACA655C-3527-4274-8574-AA725C6E8924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACA655C-3527-4274-8574-AA725C6E8924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -276,6 +282,7 @@ Global
 		{17181140-B9FF-4136-9335-E3881D2E8E0D} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{93628494-30AB-4BEE-9332-368B72D21317} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{278C9F2F-E0D8-43B9-9008-D0C93E1DF010} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{BACA655C-3527-4274-8574-AA725C6E8924} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
