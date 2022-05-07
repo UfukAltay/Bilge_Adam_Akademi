@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "u6-StringMethodlari2/1.0.0": {
+        "runtime": {
+          "u6-StringMethodlari2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u6-StringMethodlari2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
