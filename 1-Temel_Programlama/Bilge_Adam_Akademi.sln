@@ -81,17 +81,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t5-ArraySinifi_Methodlari3"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u-Methods", "u-Methods\u-Methods.csproj", "{17181140-B9FF-4136-9335-E3881D2E8E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u1-Methods1", "u1-Methods1\u1-Methods1.csproj", "{93628494-30AB-4BEE-9332-368B72D21317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u1-Methods1", "u1-Methods1\u1-Methods1.csproj", "{93628494-30AB-4BEE-9332-368B72D21317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u2-MethodsExample1", "u2-MethodsExample1\u2-MethodsExample1.csproj", "{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u2-MethodsExample1", "u2-MethodsExample1\u2-MethodsExample1.csproj", "{278C9F2F-E0D8-43B9-9008-D0C93E1DF010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u3-MethodsExample2", "u3-MethodsExample2\u3-MethodsExample2.csproj", "{BACA655C-3527-4274-8574-AA725C6E8924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u3-MethodsExample2", "u3-MethodsExample2\u3-MethodsExample2.csproj", "{BACA655C-3527-4274-8574-AA725C6E8924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u4-MethodOverloading", "u4-MethodOverloading\u4-MethodOverloading.csproj", "{F3F14606-25F3-4DA4-94A6-773A089490E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u4-MethodOverloading", "u4-MethodOverloading\u4-MethodOverloading.csproj", "{F3F14606-25F3-4DA4-94A6-773A089490E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u5-StringMethodlari", "u5-StringMethodlari\u5-StringMethodlari.csproj", "{EB9FDB13-C67A-4498-8B34-74A1C4D8E55D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u5-StringMethodlari", "u5-StringMethodlari\u5-StringMethodlari.csproj", "{EB9FDB13-C67A-4498-8B34-74A1C4D8E55D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u6-StringMethodlari2", "u6-StringMethodlari2\u6-StringMethodlari2.csproj", "{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u6-StringMethodlari2", "u6-StringMethodlari2\u6-StringMethodlari2.csproj", "{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t6-Arrays-TerstenYazdirmaUygulamasi", "t6-Arrays-TerstenYazdirmaUygulamasi\t6-Arrays-TerstenYazdirmaUygulamasi.csproj", "{D40101E2-874B-41CE-B32C-B799DA84136E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -259,6 +261,10 @@ Global
 		{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40101E2-874B-41CE-B32C-B799DA84136E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40101E2-874B-41CE-B32C-B799DA84136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40101E2-874B-41CE-B32C-B799DA84136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40101E2-874B-41CE-B32C-B799DA84136E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -304,6 +310,7 @@ Global
 		{F3F14606-25F3-4DA4-94A6-773A089490E1} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{EB9FDB13-C67A-4498-8B34-74A1C4D8E55D} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{D40101E2-874B-41CE-B32C-B799DA84136E} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
