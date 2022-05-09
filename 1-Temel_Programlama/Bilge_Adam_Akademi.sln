@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u5-StringMethodlari", "u5-S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "u6-StringMethodlari2", "u6-StringMethodlari2\u6-StringMethodlari2.csproj", "{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t6-Arrays-TerstenYazdirmaUygulamasi", "t6-Arrays-TerstenYazdirmaUygulamasi\t6-Arrays-TerstenYazdirmaUygulamasi.csproj", "{D40101E2-874B-41CE-B32C-B799DA84136E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t6-Arrays-TerstenYazdirmaUygulamasi", "t6-Arrays-TerstenYazdirmaUygulamasi\t6-Arrays-TerstenYazdirmaUygulamasi.csproj", "{D40101E2-874B-41CE-B32C-B799DA84136E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t7-Arrays-TelefonDefteriApp", "t7-Arrays-TelefonDefteriApp\t7-Arrays-TelefonDefteriApp.csproj", "{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t7-Arrays-TelefonDefteriApp", "t7-Arrays-TelefonDefteriApp\t7-Arrays-TelefonDefteriApp.csproj", "{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a-Encapsulation_Properties", "a-Encapsulation_Properties\a-Encapsulation_Properties.csproj", "{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -271,6 +273,10 @@ Global
 		{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{BF1713C8-4573-4EBE-B5E8-BFF31C6D975C} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{D40101E2-874B-41CE-B32C-B799DA84136E} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
 		{997E7B5E-7031-43ED-B1D0-6D6B6D01CAE0} = {BD8E5CB0-CC0B-459E-9417-5B2FFF29D8F9}
+		{5AB4E3E3-6E16-47AA-8D0A-DDD4393CF10F} = {CADEDF85-E6FE-4A8E-BBF9-C4388A2C2360}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94508A64-9A03-4EFC-804F-5C7095508A2A}
