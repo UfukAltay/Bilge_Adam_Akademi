@@ -16,3 +16,21 @@ C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projec
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\a-FirstLesson\obj\Debug\net5.0-windows\ref\a-FirstLesson.dll
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.pdb
 C:\Users\ufuka\OneDrive\Masaüstü\Yazılım\Bilge Adam Akademi\Yazılım\Projects\Bilge_Adam_Akademi\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.genruntimeconfig.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.exe
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.deps.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\bin\Debug\net5.0-windows\a-FirstLesson.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.csproj.AssemblyReference.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a_FirstLesson.Form1.resources
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.csproj.GenerateResource.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\refint\a-FirstLesson.dll
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.pdb
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\a-FirstLesson.genruntimeconfig.cache
+C:\Users\ufuka\Source\Repos\Bilge_Adam_Akademi\1-Temel_Programlama\a-FirstLesson\obj\Debug\net5.0-windows\ref\a-FirstLesson.dll
